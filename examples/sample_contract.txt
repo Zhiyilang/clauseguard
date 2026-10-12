@@ -1,0 +1,54 @@
+FREELANCE SOFTWARE DEVELOPMENT AGREEMENT
+
+This Agreement is made between Acme Tech Labs ("Client") and the individual
+contractor ("Contractor").
+
+1. Term and Renewal
+The initial term is twelve (12) months. This Agreement shall automatically renew
+for successive twelve-month periods unless the Contractor provides written notice
+of non-renewal at least sixty (60) days before the end of the then-current term.
+Early termination by the Contractor is subject to an early termination fee equal
+to two (2) months of the average monthly fee.
+
+2. Fees and Payment
+Invoices are due net 45 days. The Client may withhold payment pending its internal
+review. All sales are final and fees are non-refundable. A late charge of 1.5%
+per month applies to overdue amounts.
+
+3. Intellectual Property
+All rights in the work product, including all intellectual property and any
+improvements, shall vest exclusively in the Client. The Contractor assigns all
+intellectual property rights in anything created during the engagement, including
+pre-existing tools the Contractor uses to deliver the work.
+
+4. Liability
+In no event shall the Client be liable for any indirect, consequential, or
+incidental damages. The aggregate liability of the Client shall not exceed the
+fees paid in the prior three (3) months. The Contractor shall indemnify and hold
+harmless the Client from any claims arising out of the engagement, including
+claims the Contractor did not directly cause.
+
+5. Personal Guarantee
+The Contractor personally guarantees payment of any amounts owed and is jointly
+and severally liable for breaches of this Agreement.
+
+6. Dispute Resolution
+Any dispute shall be resolved by binding arbitration under the rules of a provider
+chosen by the Client, and the Contractor waives any right to a jury trial and to
+participate in a class action. The governing law is the law of a jurisdiction
+three time zones away from the Contractor's residence, and the venue shall be the
+courts located there.
+
+7. Changes
+The Client may change the terms of this Agreement at its sole discretion, without
+prior notice, and the Contractor's continued work constitutes acceptance.
+
+8. Data
+The Contractor consents to the Client collecting and sharing the Contractor's
+personal data with third parties for any business purpose.
+
+9. Non-Compete
+The Contractor shall not engage with any client of the Client for twenty-four (24)
+months following termination, worldwide and without geographic limit.
+
+This Agreement is accepted by the Contractor's continued performance.
